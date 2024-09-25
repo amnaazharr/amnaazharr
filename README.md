@@ -41,13 +41,14 @@ I love helping teams improve their testing processes and introducing new practic
 ---
 
 ## Languages and Tools
-![Selenium](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg) Selenium  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python  
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) Docker  
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) Git  
-![JIRA](https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg) JIRA  
-![Postman](https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg) Postman  
-![API Testing](https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg) API Testing  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="50" height="50" alt="Selenium"> Selenium  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"> Python  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"> Docker  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"> Git  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50" alt="JIRA"> JIRA  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" alt="Postman"> Postman  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="50" height="50" alt="API Testing"> API Testing  
+
 
 
 ---
