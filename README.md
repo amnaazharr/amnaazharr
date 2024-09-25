@@ -45,6 +45,3 @@ I love helping teams improve their testing processes and introducing new practic
 
 
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnaazharr&show_icons=true&hide_title=true&count_private=true&theme=radical)
