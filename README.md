@@ -1,4 +1,4 @@
-# amnaazharr/README.md
+
 # Hi 👋, I'm Amna Azhar
 
 SQA Engineer with 4 years of experience with a Bachelor's Degree. My expertise lies in manual, API and automation testing, specifically with Agile and Scrum methodologies
